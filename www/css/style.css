@@ -1,0 +1,16 @@
+/**/
+
+canvas{
+  background-image: url("https://media.giphy.com/media/etYZDbzfnrsvm/giphy.gif");
+  background-size: 100% 400px;
+  width: 100%;
+}
+
+button{
+  height: 60px;
+}
+
+button svg{
+  height: 40px;
+  width: 40px;
+}
